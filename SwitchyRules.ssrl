@@ -5,17 +5,18 @@
 #BEGIN
 
 [wildcard]
-*android.com
-*google.com
-*googleapis.com
-*googlesyndication.com
-*googleusercontent.com
-*googlevideo.com
-*gstatic.com
-*privatetunnel.com
-*wikipedia.org
-*youtube.com
-*ytimg.com
+*.android.com
+*.golang.org
+*.google.com
+*.googleapis.com
+*.googlesyndication.com
+*.googleusercontent.com
+*.googlevideo.com
+*.gstatic.com
+*.privatetunnel.com
+*.wikipedia.org
+*.youtube.com
+*.ytimg.com
 
 [regexp]
 
