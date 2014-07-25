@@ -6,6 +6,7 @@
 
 [wildcard]
 *.android.com
+*.cppreference.com
 *.golang.org
 *.google.com
 *.googleapis.com
