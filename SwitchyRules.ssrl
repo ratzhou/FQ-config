@@ -5,19 +5,20 @@
 #BEGIN
 
 [wildcard]
-*.android.com
-*.cppreference.com
-*.golang.org
-*.google.com
-*.googleapis.com
-*.googlesyndication.com
-*.googleusercontent.com
-*.googlevideo.com
-*.gstatic.com
-*.privatetunnel.com
-*.wikipedia.org
-*.youtube.com
-*.ytimg.com
+android.com
+cppreference.com
+golang.org
+google.com
+googleapis.com
+googlesyndication.com
+googleusercontent.com
+googlevideo.com
+gstatic.com
+privatetunnel.com
+twitter.com
+wikipedia.org
+youtube.com
+ytimg.com
 
 [regexp]
 
